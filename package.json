@@ -63,7 +63,8 @@
     "telegraf": "latest",
     "express": "latest",
     "cors": "latest",
-    "tailwindcss": "latest"
+    "tailwindcss": "latest",
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
     "@types/node": "^22",
